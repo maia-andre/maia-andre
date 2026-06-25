@@ -1,13 +1,5 @@
 # Olá, eu sou André Maia
 
-Servidor público e desenvolvedor de soluções voltadas para transformação digital no setor público.
-
-Atuo na área de licitações, patrimônio, almoxarifado, governança e melhoria de processos administrativos, desenvolvendo ferramentas que aumentam produtividade, rastreabilidade e qualidade da informação.
-
-Atualmente construo projetos nas áreas de GovTech, automação documental, observatórios de dados, gestão patrimonial e inteligência artificial aplicada à administração pública.
-
----
-
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
