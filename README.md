@@ -24,25 +24,6 @@
 
 ---
 
-## Projetos
-
-### LicitaDocs
-Plataforma para gestão documental, versionamento, rastreabilidade e apoio aos processos de contratação pública.
-
-### Observatório de Oportunidades
-Portal para consolidação e análise de oportunidades de certificações públicas, artigos, editais, emendas parlamentares e indicadores de governança pública.
-
-### Universidade do Servidor
-Ambiente de capacitação interna para servidores públicos.
-
-### Plataforma de Certidões
-Automação da emissão e conferência de certidões utilizando APIs e fluxos automatizados.
-
-### RFID Patrimonial
-Estudos e protótipos para rastreamento e inventário patrimonial utilizando RFID, ESP32 e dispositivos móveis.
-
----
-
 ## Atualmente Estudando
 
 - Arquitetura de Software
