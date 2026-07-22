@@ -17,8 +17,7 @@
 
 ## ⭐ Projetos em destaque
 
-- 📄 **LicitaDocs** — Plataforma para gestão documental e apoio às licitações.
-- 📦 **Centro Logístico SJC** — Plataforma para gestão logística e indicadores operacionais.
+- 📦 **Ser Logístico** — Plataforma para gestão logística e indicadores operacionais.
 - 📊 **Dashboards & Analytics** — Aplicações voltadas à análise de dados e apoio à tomada de decisão.
 - 🤖 **IA & Automação** — Experimentos com LLMs, agentes e automação de processos.
 
