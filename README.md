@@ -1,5 +1,5 @@
 
-> `There is no spoon.`
+> `Follow the white rabbit... wake up!`
 >
 > Mas provavelmente existe uma API para isso.
 
@@ -102,6 +102,8 @@ E, de vez em quando, jogar tudo fora e começar de novo é uma excelente
 forma de aprender.
 
 ---
+
+> `There is no spoon.`
 
 ## Onde me encontrar
 
