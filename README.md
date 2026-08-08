@@ -1,52 +1,113 @@
-# Olá! Eu sou André Maia 👋
 
-> Gosto de pegar processos complicados e transformá-los em software simples. Meu foco é desenvolver soluções com Python, IA e arquitetura de software, com interesse especial em transformação digital e GovTech.
+> `There is no spoon.`
+>
+> Mas provavelmente existe uma API para isso.
 
----
+> Software, sistemas, burocracia e algumas ideias que provavelmente deveriam ter sido deixadas quietas.
 
-## 🚀 Tecnologias
+Sou desenvolvedor e gosto de descobrir o que acontece quando a gente olha para um problema por tempo suficiente.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Às vezes isso vira software.
 
----
+Às vezes vira uma arquitetura.
 
-## ⭐ Projetos em destaque
+Às vezes vira um experimento em C que tenta simular uma Matrix.
 
-- 📦 **Ser Logístico** — Plataforma para gestão logística e indicadores operacionais.
-- 📊 **Dashboards & Analytics** — Aplicações voltadas à análise de dados e apoio à tomada de decisão.
-- 🤖 **IA & Automação** — Experimentos com LLMs, agentes e automação de processos.
+Não existe muito método nisso. Existe curiosidade.
 
 ---
 
-## 💡 Áreas de interesse
+## O que costuma aparecer por aqui
 
-- GovTech
-- Inteligência Artificial
-- Arquitetura de Software
-- Engenharia de Produto
-- Transformação Digital
-- Automação de Processos
-- Dados para Tomada de Decisão
-- Administração Pública
-- Compras e Licitações
-- Gestão Patrimonial
+```text
+Python          ████████████████████
+Kotlin          ███████████████
+Django          ███████████████
+SQL/PostgreSQL  ██████████████
+Docker          █████████████
+C               ████████
+IA / LLMs       ███████████████
+Arquitetura     █████████████████
+```
+
+E eventualmente:
+
+- APIs que começaram pequenas e ficaram grandes
+- automações para problemas que ninguém queria resolver manualmente
+- dashboards que sobreviveram ao terceiro redesign
+- sistemas de gestão
+- experiências com IA
+- hardware
+- segurança
+- coisas escritas em C por motivos que nem sempre consigo explicar
 
 ---
 
-## 📚 Atualmente estudando
+## Projetos
 
-- Arquitetura de Software
-- Segurança da Informação
-- Engenharia de Produto
-- Inteligência Artificial aplicada ao desenvolvimento
-- Desenvolvimento de soluções GovTech
-- IoT (Arduino, ESP32, LoRa e OBD-II)
+### `licitadocs`
+
+Um sistema para transformar processos de licitações e contratos em software,
+porque aparentemente eu achei que burocracia precisava de mais código.
+
+Django · PostgreSQL · Docker · Linux · QR Code · testes · auditoria
+
+### `matrix`
+
+Um experimento em C sobre mundos procedurais, agentes, seleção,
+comportamento e a velha pergunta:
+
+> "E se a simulação começasse a perceber que está sendo simulada?"
+
+É provavelmente o projeto mais desnecessariamente elaborado que já fiz.
+
+### `ser-logistico`
+
+Ferramentas para transformar operações logísticas, estoque e patrimônio
+em dados que alguém consegue realmente usar.
+
+### `andre-maia.github.io`
+
+Meu laboratório público.
+
+Textos técnicos, experimentos, reflexões, ideias estranhas e algumas coisas
+que não cabem muito bem em um currículo.
 
 ---
 
-> *Tecnologia só gera valor quando resolve problemas reais.*
+## Atualmente
+
+Estou brincando com:
+
+`Software Architecture` · `Cybersecurity` · `AI` · `IoT` · `ESP32`
+· `Arduino` · `LoRa` · `OBD-II` · `Kotlin` · `C`
+
+Também tenho uma relação cada vez mais suspeita com:
+
+`Docker` · `Git` · `PostgreSQL` · `Linux` · `documentação`
+
+---
+
+## Algumas convicções
+
+Código bom não é código complicado.
+
+Arquitetura não existe para impressionar arquiteto.
+
+Automação não deveria apenas mover o trabalho de uma pessoa para outra.
+
+Segurança não é uma etapa no final do projeto.
+
+E, de vez em quando, jogar tudo fora e começar de novo é uma excelente
+forma de aprender.
+
+---
+
+## Onde me encontrar
+
+[🌐 Site](https://maia-andre.github.io)
+
+[💻 GitHub](https://github.com/maia-andre)
+
+---
+
