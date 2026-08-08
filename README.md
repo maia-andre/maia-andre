@@ -1,7 +1,7 @@
 
 > `Follow the white rabbit... wake up!`
 >
-> Mas provavelmente existe uma API para isso.
+
 
 > Software, sistemas, burocracia e algumas ideias que provavelmente deveriam ter sido deixadas quietas.
 
@@ -104,7 +104,8 @@ forma de aprender.
 ---
 
 > `There is no spoon.`
-
+> Mas provavelmente existe uma API para isso.
+> 
 ## Onde me encontrar
 
 [🌐 Site](https://maia-andre.github.io)
