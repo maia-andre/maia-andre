@@ -17,7 +17,6 @@ forma de aprender.
 > Mas provavelmente existe uma API para isso.
 > 
 ## Onde me encontrar
-[🌐 Site](https://maia-andre.github.io)
 [💻 GitHub](https://github.com/maia-andre)
 [📧 Institucional](mailto:andre.maia@sjc.sp.gov.br)
 [📧 Pessoal](mailto:andrefnkmm@gmail.com)
