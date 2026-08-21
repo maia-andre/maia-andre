@@ -1,3 +1,5 @@
+> `There is no spoon - 404: Spoon Not Found. Try the SpoonAPI`
+
 ## Algumas convicções
 
 Código bom não é código complicado.
@@ -13,8 +15,6 @@ forma de aprender.
 
 ---
 
-> `There is no spoon.`
-> Mas provavelmente existe uma API para isso.
 > 
 ## Onde me encontrar
 [💻 GitHub](https://github.com/maia-andre)
