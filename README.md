@@ -1,97 +1,104 @@
-> `There is no spoon - 404: Spoon Not Found. Try the SpoonAPI`
+# André Maia
 
-# Hi, I'm André Maia.
+> `There is no spoon. 404: colher não encontrada. Consulte a SpoonAPI.`
 
-I build software to make real-world work less painful.
+**Eu construo sistemas para mudar a forma como o trabalho é feito.**
 
-I'm a Python developer working with public administration and digital transformation, with a particular interest in automation, data, open source and systems that solve actual problems.
+Sou desenvolvedor de software, trabalho com transformação digital no setor público e gosto de investigar o que acontece quando a gente deixa de aceitar processos como eles são e começa a entender como eles poderiam funcionar.
 
-A lot of what I build starts with a simple question:
+Meu laboratório fica em algum lugar entre o Python, o PostgreSQL, o hardware, a automação e a pergunta que costuma dar início aos problemas mais interessantes:
 
-**“Why are we doing this manually?”**
+**Por que ainda estamos fazendo isso manualmente?**
 
-From there, things tend to get interesting.
+Às vezes, a resposta é uma automação. Às vezes, é uma arquitetura nova. Às vezes, envolve soldar uma placa, ler uma etiqueta RFID ou escrever uma simulação em C para descobrir até onde uma ideia consegue chegar.
 
-## What I care about
-
-I like software that is simple enough to understand, robust enough to trust, and useful enough to survive contact with reality.
-
-I'm particularly interested in:
-
-* 🐍 Python, data and automation
-* 🏛️ GovTech and digital transformation
-* 🤖 Applied AI and computer vision
-* 📡 IoT, RFID and the occasional piece of hardware
-* 🔓 Open source and collaborative development
-* 🏗️ Software architecture, APIs and developer experience
-* 🔐 Security as part of engineering, not a final checkbox
-
-I learn best by building things, breaking them, understanding why they broke, and building them again.
-
-## Open source
-
-Open source became one of the ways I learn and contribute to software beyond my own projects.
-
-I've contributed to projects such as [LibreSign], [Colibri] and other public-sector and open-source initiatives, working mostly with Python, PHP, APIs, automation, testing and documentation.
-
-I also enjoy the less glamorous parts of open source:
-
-code review, documentation, debugging someone else's assumptions, and discovering that the “small fix” was absolutely not a small fix.
-
-## Things I'm building
-
-### 🏛️ Patrimônio Inteligente
-
-An experimental platform for public-asset inventory and tracking, exploring RFID, ESP32, Android and computer vision.
-
-The goal is not just to build an app, but to explore what a more modern public inventory workflow could look like.
-
-### 📊 GovTech
-
-I build tools for public administration involving data pipelines, dashboards, document processing, automation and decision support.
-
-Most of these projects begin with spreadsheets, repetitive tasks and someone saying:
-
-> “We've always done things this way” / “A gente sempre fez assim.”
-
-That's usually where I become interested.
-
-## How I work
-
-I like understanding the system before hiding it behind abstractions.
-
-I value:
-
-**Good code over clever code.**
-
-**Architecture that serves the problem, not the architect.**
-
-**Automation that removes work instead of moving it somewhere else.**
-
-**Security from the beginning.**
-
-**Documentation that helps the next person.**
-
-And occasionally:
-
-**throwing everything away and starting again.**
-
-It's a surprisingly effective learning technique.
-
-## Outside the code
-
-I like Linux, hardware experiments, old games, good music, absurdly complicated side projects and learning things that initially seem completely unrelated.
-
-Sometimes the best way to understand a system is to build a tiny version of it yourself.
-
-Sometimes the tiny version accidentally becomes a repository.
-
-That's probably how most of these started.
+O importante é entender o problema antes de tentar escondê-lo atrás de uma abstração.
 
 ---
 
-### Find me around the web
-[💻 GitHub](https://github.com/maia-andre)
-[📧 Institucional](mailto:andre.maia@sjc.sp.gov.br)
-[📧 Pessoal](mailto:andrefnkmm@gmail.com)
+## Projetos em destaque
 
+### 🏛️ Patrimônio Inteligente
+**Inventário público, IoT e novas formas de capturar a realidade.**
+
+[Repositório →](https://github.com/maia-andre/patrimonio-inteligente)
+
+Como modernizar o inventário de bens públicos sem simplesmente digitalizar as limitações do processo atual?
+
+O Patrimônio Inteligente explora uma plataforma de conferência patrimonial que integra diferentes formas de identificação e captura de dados, incluindo códigos de barras, câmera, NFC e RFID UHF.
+
+O projeto conecta software e hardware: Android, ESP32, Bluetooth Low Energy e leitores RFID fazem parte de uma arquitetura pensada para aproximar o registro digital do que realmente existe no mundo físico.
+
+O objetivo é construir uma base tecnológica para inventários mais eficientes, rastreáveis e confiáveis — começando pela captura dos dados e evoluindo em direção à reconciliação e ao uso inteligente das informações.
+
+**Não é só sobre ler etiquetas. É sobre repensar o inventário.**
+
+### 🟩 Matrix
+**E se uma simulação começasse a perceber que está sendo simulada?**
+
+Um experimento em C sobre mundos procedurais, agentes, seleção e comportamento.
+
+Matrix é meu espaço para investigar sistemas por outro ângulo: criar um ambiente, definir suas regras, observar o que emerge das interações e descobrir o que acontece quando a complexidade começa a produzir resultados inesperados.
+
+É um contraponto aos sistemas de gestão e automação do cotidiano. Em vez de resolver um processo existente, a ideia é construir um pequeno mundo e experimentar com as regras que o fazem funcionar.
+
+Porque entender sistemas também significa perguntar o que acontece quando eles deixam de fazer apenas aquilo que esperamos.
+
+### ⚙️ LicitaDocs
+**Engenharia de software aplicada à administração pública.**
+
+[Repositório →](https://github.com/maia-andre/licitadocs)
+
+Uma aplicação voltada à gestão e à elaboração de documentos de licitação, desenvolvida a partir de regras de negócio reais e das necessidades de quem trabalha com processos administrativos.
+
+Python, Django, PostgreSQL, autenticação institucional, testes automatizados e integração com sistemas existentes fazem parte desse trabalho.
+
+O desafio não é apenas produzir documentos. É transformar regras, responsabilidades e etapas de um processo em um sistema consistente, auditável e sustentável.
+
+**Software público precisa funcionar fora da demonstração.**
+
+---
+
+## O que me interessa
+
+- **Python, dados e automação:** eliminar trabalho repetitivo sem apenas transferi-lo para outra pessoa.
+- **GovTech:** construir ferramentas úteis para problemas reais da administração pública.
+- **IoT e hardware:** conectar sistemas digitais ao mundo físico, do ESP32 ao RFID UHF.
+- **IA aplicada e visão computacional:** usar modelos quando existe um problema concreto a resolver.
+- **Arquitetura e engenharia de software:** projetar sistemas que possam ser compreendidos, testados e mantidos.
+- **Segurança e integração:** tratar autenticação, rastreabilidade, APIs e infraestrutura como parte do projeto.
+- **Open source:** aprender em público, colaborar e devolver melhorias para a comunidade.
+
+## Como eu trabalho
+
+Acredito em código que possa ser entendido por outra pessoa, arquitetura que sirva ao problema e testes que ajudem a separar confiança de suposição.
+
+Gosto de investigar o sistema antes de abstraí-lo, automatizar antes de complicar e documentar as decisões que provavelmente serão questionadas daqui a seis meses.
+
+Trabalho com testes, documentação, revisão de código e evolução incremental. Também gosto de prototipar, experimentar alternativas e recomeçar quando descubro que a solução inicial estava respondendo à pergunta errada.
+
+Não tenho interesse em usar tecnologia apenas porque ela é nova.
+
+Tenho interesse em descobrir o que ela permite fazer melhor.
+
+## Fora do expediente
+
+Linux, eletrônica, jogos antigos, música pesada, projetos paralelos e ideias que provavelmente deveriam ter permanecido pequenas.
+
+Gosto de aprender coisas que parecem não ter relação entre si e descobrir, mais tarde, que estavam falando do mesmo problema sob perspectivas diferentes.
+
+Às vezes, começo tentando melhorar um processo de inventário.
+
+Às vezes, termino explorando mundos procedurais em C.
+
+**A curiosidade é a arquitetura. O resto é implementação.**
+
+---
+
+### Onde encontrar meu trabalho
+
+- [GitHub](https://github.com/maia-andre)
+- [E-mail institucional](mailto:andre.maia@sjc.sp.gov.br)
+- [E-mail pessoal](mailto:andrefnkmm@gmail.com)
+
+`Construindo, testando, quebrando e entendendo.`
